@@ -43,7 +43,7 @@ const TEACHERS = [
         role:  "Inorganic Chemistry",
         photo: "1000080905.png",
         cover: "photos/covers/t4.png",
-          instagram: "https://instagram.com/username",
+          instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Subject",        val: "Edit me" },
@@ -86,7 +86,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 02",
         photo: "mahesh2.png",
         cover: "photos/covers/s02.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "kya kehta tha Moksh?",    val: "" },
@@ -128,7 +128,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 05",
         photo: "abhishek-v1.png",
         cover: "photos/covers/s05.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "GOLI maardunga!",    val: "" },
@@ -142,7 +142,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 06",
         photo: "photos/s06.png",
         cover: "photos/covers/s06.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -156,6 +156,8 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 07",
         photo: "photos/s07.png",
         cover: "photos/covers/s07.png",
+        instagram: "https://instagram.com/username",
+        linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -196,7 +198,7 @@ const TEACHERS = [
         role:  "Integration specialist",
         photo: "dk.png",
         cover: "photos/covers/s10.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -238,7 +240,7 @@ const TEACHERS = [
         role:  "Not exactly a dropper",
         photo: "photos/s13.png",
         cover: "photos/covers/s13.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -266,7 +268,7 @@ const TEACHERS = [
         role:  "chemistry head",
         photo: "photos/s15.png",
         cover: "photos/covers/s15.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -280,7 +282,7 @@ const TEACHERS = [
         role:  "KING",
         photo: "photos/s16.png",
         cover: "photos/covers/s16.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "",    val: "KING" },
@@ -322,7 +324,7 @@ const TEACHERS = [
         role:  "chatgpt's assistant",
         photo: "yusuff2.png",
         cover: "photos/covers/s18.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -350,7 +352,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 20",
         photo: "photos/s20.png",
         cover: "photos/covers/s20.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -364,7 +366,7 @@ const TEACHERS = [
         role:  "Mr. INDIA from Diwali",
         photo: "photos/s19.png",
         cover: "photos/covers/s19.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
