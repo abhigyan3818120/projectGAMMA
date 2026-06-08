@@ -1,15 +1,15 @@
 const TEACHERS = [
       {
         name:  "YUG SAREEN SIR",
-        role:  "PHYSICS",
+        role:  "JAI LOGIC CEO",
         photo: "yugsir2.png",
         cover: "photos/covers/t1.png",
-          instagram: "https://instagram.com/username",
+          instagram: "https://www.instagram.com/yug.sareen/",
   linkedin: "https://www.linkedin.com/in/yugsareen/",
         props: [
           { key: "logic lagate rahe basic banaate rahe",        val: "" },
-          { key: "CEO of",     val: "JAI LOGIC" },
-          { key: "IIT Roorkee",  val: "🐱‍👤" }
+          { key: "Centre Head PW Vidyapeeth Chandigarh",     val: "" },
+          { key: "IIT Roorkee🐱‍👤",  val: "" }
         ]
       },
       {
@@ -17,12 +17,12 @@ const TEACHERS = [
         role:  "MATHEMATICS",
         photo: "1000080903.png",
         cover: "photos/covers/t2.png",
-          instagram: "https://instagram.com/username",
-  linkedin: "https://www.linkedin.com/in/kundan-kumar-a1204a82/",
+        instagram: "https://www.instagram.com/kundan_mathematics_2658/",
+         linkedin: "https://www.linkedin.com/in/kundan-kumar-a1204a82/",
         props: [
-          { key: "question solve karne se mamla cool ho jaayega",        val: "" },
-          { key: "Experience",     val: "Edit me" },
-          { key: "Qualification",  val: "Edit me" }
+          { key: "question solve karne se mamla cool ho jaayega", val: "" },
+          { key: "Centre head PW Vidyapeeth Janakpuri", val: "" },
+          { key: "Sponser:AVATAR 3 trip",  val: "" }
         ]
       },
       {
@@ -30,7 +30,7 @@ const TEACHERS = [
         role:  "Organic Chemistry",
         photo: "rp.png",
         cover: "photos/covers/t3.png",
-          instagram: "https://instagram.com/username",
+          instagram: "https://www.instagram.com/rahulpareek_6f7/",
   linkedin: "https://www.linkedin.com/in/rahul-pareek-621219b9/",
         props: [
           { key: "Subject",        val: "Edit me" },
@@ -56,7 +56,7 @@ const TEACHERS = [
         role:  "Physical Chemistry",
         photo: "rrsir.png",
         cover: "photos/covers/t5.png",
-          instagram: "https://instagram.com/username",
+          instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://www.linkedin.com/in/rajeev-ranjan-0ab49719/",
         props: [
           { key: "Subject",        val: "Edit me" },
@@ -72,7 +72,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 01",
         photo: "WHAT.PNG",
         cover: "photos/covers/s01.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/mokshjeevavat/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -100,7 +100,7 @@ const TEACHERS = [
         role:  "HW specialist",
         photo: "akshat2.png",
         cover: "akshat4.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/akshatbarsaiyan/",
         linkedin: "https://www.linkedin.com/in/akshat-barsaiyan-671592410?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         props: [
           { key: "Eiffel Tower",    val: "" },
@@ -114,7 +114,7 @@ const TEACHERS = [
         role:  "",
         photo: "as.png",
         cover: "photos/covers/s04.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://instagram.com/usernamehttps://www.instagram.com/ankita.saha.23/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -156,7 +156,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 07",
         photo: "photos/s07.png",
         cover: "photos/covers/s07.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/ft.abhigyan_k/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -170,7 +170,7 @@ const TEACHERS = [
         role:  "RATE DECIDING STEP",
         photo: "photos/s08.png",
         cover: "photos/covers/s08.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://instagram.com/usernamehttps://www.instagram.com/prefer_hidden/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -184,13 +184,13 @@ const TEACHERS = [
         role:  "differentiation specialist",
         photo: "kundan2.png",
         cover: "photos/covers/s09.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://instagram.com/usernamehttps://www.instagram.com/kundan6475kumar/",
         linkedin: "https://linkedin.com/in/username",
         props: [
-          { key: "Hobby",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "inta maar maarunga,",    val: "" },
+          { key: "MR. NOTES", val: "" },
+          { key: "Aaiye na hamara bihar main", val: "Edit me" },
+          { key: "CHEMISTRY ungliyon pe",    val: "Edit me" }
         ]
       },
       {
@@ -212,7 +212,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 11",
         photo: "nitin.png",
         cover: "photos/covers/s11.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/nitinr_09/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -226,7 +226,7 @@ const TEACHERS = [
         role:  "khoon ROORKEE",
         photo: "photos/s12.png",
         cover: "photos/covers/s12.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/tyagi._.anshul/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -254,7 +254,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 14",
         photo: "pp.png",
         cover: "photos/covers/s14.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/pankaj._.paliwal/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -338,7 +338,7 @@ const TEACHERS = [
         role:  "SCAM 226",
         photo: "photos/s17.png",
         cover: "photos/covers/s17.png",
-        instagram: "https://instagram.com/username",
+        instagram: "https://www.instagram.com/prince_thakur0710/",
         linkedin: "https://linkedin.com/in/username",
         props: [
           { key: "Hobby",    val: "Edit me" },
@@ -428,10 +428,6 @@ const TEACHERS = [
       card.addEventListener('click', () => openModal(person));
       return card;
     }
-
-    /* ═══════════════════════════════════════════════════════════════════════
-       MODAL LOGIC
-    ═══════════════════════════════════════════════════════════════════════ */
     const overlay    = document.getElementById('modalOverlay');
     const modalClose = document.getElementById('modalClose');
     const modalArt   = document.getElementById('modalArtImg');
@@ -466,8 +462,6 @@ const TEACHERS = [
         chip.appendChild(val);
         modalProps.appendChild(chip);
       });
-
-      /* Scroll modal to top on open */
       document.getElementById('modalBox').scrollTop = 0;
       overlay.classList.add('open');
     }
@@ -479,10 +473,6 @@ const TEACHERS = [
     modalClose.addEventListener('click', closeModal);
     overlay.addEventListener('click', e => { if (e.target === overlay) closeModal(); });
     document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
-
-    /* ═══════════════════════════════════════════════════════════════════════
-       RENDER
-    ═══════════════════════════════════════════════════════════════════════ */
     const teachersRow = document.getElementById('teachersRow');
     TEACHERS.forEach(t => teachersRow.appendChild(buildCard(t, true)));
 
