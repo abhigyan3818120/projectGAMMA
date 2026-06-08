@@ -22,7 +22,7 @@ const TEACHERS = [
         props: [
           { key: "question solve karne se mamla cool ho jaayega", val: "" },
           { key: "Centre head PW Vidyapeeth Janakpuri", val: "" },
-          { key: "Sponser:AVATAR 3 trip",  val: "" }
+          { key: "Sponser: AVATAR:way of water trip",  val: "" }
         ]
       },
       {
@@ -75,7 +75,7 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/mokshjeevavat/",
         linkedin: "https://linkedin.com/in/username",
         props: [
-          { key: "Hobby",    val: "Edit me" },
+          { key: "",    val: "" },
           { key: "Strength", val: "Edit me" },
           { key: "Fun Fact", val: "Edit me" },
           { key: "Dream",    val: "Edit me" }
@@ -83,7 +83,7 @@ const TEACHERS = [
       },
       {
         name:  "MAHESH NAGAR",
-        role:  "Batchmate · Roll No. 02",
+        role:  "TIFFIN Specialist",
         photo: "mahesh2.png",
         cover: "photos/covers/s02.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
@@ -105,7 +105,7 @@ const TEACHERS = [
         props: [
           { key: "Eiffel Tower",    val: "" },
           { key: "irodov niptai hai maine😎", val: "" },
-          { key: " universal selfie stick", val: "" },
+          { key: "universal selfie stick", val: "" },
           { key: "3 years PW premium membership",    val: "" }
         ]
       },
@@ -140,7 +140,7 @@ const TEACHERS = [
       {
         name:  "AMIT KUMAR",
         role:  "Batchmate · Roll No. 06",
-        photo: "photos/s06.png",
+        photo: "amit.png",
         cover: "photos/covers/s06.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://linkedin.com/in/username",
@@ -154,7 +154,7 @@ const TEACHERS = [
       {
         name:  "ABHIGYAN KARN",
         role:  "Batchmate · Roll No. 07",
-        photo: "photos/s07.png",
+        photo: "abhigyan-karn.png",
         cover: "photos/covers/s07.png",
         instagram: "https://www.instagram.com/ft.abhigyan_k/",
         linkedin: "https://linkedin.com/in/username",
@@ -224,7 +224,7 @@ const TEACHERS = [
       {
         name:  "ANSHUL TYAGI",
         role:  "khoon ROORKEE",
-        photo: "photos/s12.png",
+        photo: "anshul-tyagi.png",
         cover: "photos/covers/s12.png",
         instagram: "https://www.instagram.com/tyagi._.anshul/",
         linkedin: "https://linkedin.com/in/username",
@@ -308,7 +308,7 @@ const TEACHERS = [
       {
         name:  "JUJAR YUSUFF VOHRA",
         role:  "duniya ka saara pressure mujhpe hi hai",
-        photo: "photos/s19.png",
+        photo: "juju.png",
         cover: "photos/covers/s19.png",
         instagram: "https://instagram.com/username",
         linkedin: "https://linkedin.com/in/username",
@@ -478,3 +478,13 @@ const TEACHERS = [
 
     const batchGrid = document.getElementById('batchGrid');
     STUDENTS.forEach(s => batchGrid.appendChild(buildCard(s, false)));
+    // Smoothly reveal footer when it enters viewport
+const footer = document.querySelector('.custom-footer');
+
+const observer = new IntersectionObserver(entries => {
+    if(entries[0].isIntersecting){
+        footer.classList.add('show');
+    }
+});
+
+observer.observe(footer);
