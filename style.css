@@ -573,17 +573,3 @@
         margin-top:15px;
     }
 }
-.custom-footer{
-    background:rgba(20,20,20,0.95);
-    backdrop-filter:blur(8px);
-}
-.custom-footer{
-    opacity:0;
-    transform:translateY(40px);
-    transition:0.8s;
-}
-
-.custom-footer.show{
-    opacity:1;
-    transform:translateY(0);
-}

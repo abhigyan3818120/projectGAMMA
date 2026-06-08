@@ -478,13 +478,4 @@ const TEACHERS = [
 
     const batchGrid = document.getElementById('batchGrid');
     STUDENTS.forEach(s => batchGrid.appendChild(buildCard(s, false)));
-    // Smoothly reveal footer when it enters viewport
-const footer = document.querySelector('.custom-footer');
-
-const observer = new IntersectionObserver(entries => {
-    if(entries[0].isIntersecting){
-        footer.classList.add('show');
-    }
-});
-
-observer.observe(footer);
+    
