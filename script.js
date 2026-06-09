@@ -33,9 +33,9 @@ const TEACHERS = [
           instagram: "https://www.instagram.com/rahulpareek_6f7/",
   linkedin: "https://www.linkedin.com/in/rahul-pareek-621219b9/",
         props: [
-          { key: "Subject",        val: "Edit me" },
-          { key: "Experience",     val: "Edit me" },
-          { key: "bhaank khake mere saamne mat ana",  val: "" }
+          { key: "",        val: "" },
+          { key: "",     val: "" },
+          { key: "bhaang khake mere saamne mat ana",  val: "" }
         ]
       },
       {
@@ -44,7 +44,7 @@ const TEACHERS = [
         photo: "1000080905.png",
         cover: "photos/covers/t4.png",
           instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-  linkedin: "https://linkedin.com/in/username",
+  linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Subject",        val: "Edit me" },
           { key: "Experience",     val: "Edit me" },
@@ -73,7 +73,7 @@ const TEACHERS = [
         photo: "WHAT.PNG",
         cover: "photos/covers/s01.png",
         instagram: "https://www.instagram.com/mokshjeevavat/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "",    val: "" },
           { key: "Strength", val: "Edit me" },
@@ -87,7 +87,7 @@ const TEACHERS = [
         photo: "mahesh2.png",
         cover: "photos/covers/s02.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "kya kehta tha Moksh?",    val: "" },
           { key: "3 Years PW premium membership", val: "" },
@@ -115,7 +115,7 @@ const TEACHERS = [
         photo: "as.png",
         cover: "photos/covers/s04.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/ankita.saha.23/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -129,12 +129,12 @@ const TEACHERS = [
         photo: "abhishek-v1.png",
         cover: "photos/covers/s05.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "GOLI maardunga!",    val: "" },
           { key: "penguin cum Leader", val: "" },
           { key: "Ayodhya Niwaasi", val: "" },
-          { key: "life is what mind is",    val: "" }
+          { key: "Learn English or else don't talk to me ",    val: "" }
         ]
       },
       {
@@ -143,7 +143,7 @@ const TEACHERS = [
         photo: "amit.png",
         cover: "photos/covers/s06.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -171,7 +171,7 @@ const TEACHERS = [
         photo: "photos/s08.png",
         cover: "photos/covers/s08.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/prefer_hidden/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -185,7 +185,7 @@ const TEACHERS = [
         photo: "kundan2.png",
         cover: "photos/covers/s09.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/kundan6475kumar/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "inta maar maarunga,",    val: "" },
           { key: "MR. NOTES", val: "" },
@@ -199,7 +199,7 @@ const TEACHERS = [
         photo: "dk.png",
         cover: "photos/covers/s10.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -212,8 +212,8 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 11",
         photo: "nitin.png",
         cover: "photos/covers/s11.png",
-        instagram: "https://www.instagram.com/nitinr_09/",
-        linkedin: "https://linkedin.com/in/username",
+        instagram: "https://www.instagram.com/initinrudhenyaa/",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -227,7 +227,7 @@ const TEACHERS = [
         photo: "anshul-tyagi.png",
         cover: "photos/covers/s12.png",
         instagram: "https://www.instagram.com/tyagi._.anshul/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -241,7 +241,7 @@ const TEACHERS = [
         photo: "photos/s13.png",
         cover: "photos/covers/s13.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -255,7 +255,7 @@ const TEACHERS = [
         photo: "pp.png",
         cover: "photos/covers/s14.png",
         instagram: "https://www.instagram.com/pankaj._.paliwal/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -269,7 +269,7 @@ const TEACHERS = [
         photo: "photos/s15.png",
         cover: "photos/covers/s15.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -283,7 +283,7 @@ const TEACHERS = [
         photo: "photos/s16.png",
         cover: "photos/covers/s16.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "",    val: "KING" },
           { key: "Strength", val: "Edit me" },
@@ -296,8 +296,8 @@ const TEACHERS = [
         role:  "mast maula",
         photo: "photos/s20.png",
         cover: "photos/covers/s20.png",
-        instagram: "https://instagram.com/username",
-        linkedin: "https://linkedin.com/in/username",
+        instagram: "https://www.instagram.com/akshit_12_2024/",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -310,8 +310,8 @@ const TEACHERS = [
         role:  "duniya ka saara pressure mujhpe hi hai",
         photo: "juju.png",
         cover: "photos/covers/s19.png",
-        instagram: "https://instagram.com/username",
-        linkedin: "https://linkedin.com/in/username",
+        instagram: "https://www.instagram.com/juzar12345/",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -325,7 +325,7 @@ const TEACHERS = [
         photo: "yusuff2.png",
         cover: "photos/covers/s18.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -339,7 +339,7 @@ const TEACHERS = [
         photo: "photos/s17.png",
         cover: "photos/covers/s17.png",
         instagram: "https://www.instagram.com/prince_thakur0710/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -353,7 +353,7 @@ const TEACHERS = [
         photo: "photos/s20.png",
         cover: "photos/covers/s20.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
@@ -367,7 +367,7 @@ const TEACHERS = [
         photo: "photos/s19.png",
         cover: "photos/covers/s19.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
