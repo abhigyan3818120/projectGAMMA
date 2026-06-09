@@ -157,10 +157,10 @@ const TEACHERS = [
         photo: "abhigyan-karn.png",
         cover: "photos/covers/s07.png",
         instagram: "https://www.instagram.com/ft.abhigyan_k/",
-        linkedin: "https://linkedin.com/in/username",
+        linkedin: "https://www.linkedin.com/in/abhigyan-karn-9a317b2b4/",
         props: [
-          { key: "Hobby",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
+          { key: "Photographer",    val: "" },
+          { key: "", val: "Edit me" },
           { key: "Fun Fact", val: "Edit me" },
           { key: "Dream",    val: "Edit me" }
         ]
@@ -478,4 +478,3 @@ const TEACHERS = [
 
     const batchGrid = document.getElementById('batchGrid');
     STUDENTS.forEach(s => batchGrid.appendChild(buildCard(s, false)));
-    
