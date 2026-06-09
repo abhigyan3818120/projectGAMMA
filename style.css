@@ -121,8 +121,8 @@
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       grid-template-rows: repeat(5, auto);
-      gap: 50px;
-      max-width: 780px;
+      gap: 30px;
+      max-width: 740px;
       margin: 0 auto;
       justify-items: space-between;
     }
@@ -608,4 +608,11 @@
         justify-content:center;
         margin-top:15px;
     }
+  }
+  .abhi-line {
+    color: #aaa;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    padding: 6px 0;
   }
