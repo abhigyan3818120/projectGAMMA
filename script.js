@@ -69,8 +69,8 @@ const TEACHERS = [
     const STUDENTS = [
       {
         name:  "MOKSH JEEVAVAT",
-        role:  "Batchmate · Roll No. 01",
-        photo: "WHAT.PNG",
+        role:  "TABLE TOPPER",
+        photo: "moksh.PNG",
         cover: "photos/covers/s01.png",
         instagram: "https://www.instagram.com/mokshjeevavat/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
@@ -85,14 +85,14 @@ const TEACHERS = [
         name:  "MAHESH NAGAR",
         role:  "TIFFIN Specialist",
         photo: "mahesh2.png",
-        cover: "photos/covers/s02.png",
+        cover: "mahesh21.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "kya kehta tha Moksh?",    val: "" },
           { key: "3 Years PW premium membership", val: "" },
           { key: "KOTA toh mere khoon me hai👓", val: "" },
-          { key: "consistency gayi..",    val: "Edit me" }
+          { key: "A.K.A MAHESH BABU",    val: "" }
         ]
       },
       {
@@ -125,7 +125,7 @@ const TEACHERS = [
       },
       {
         name:  "ABHISHEK VERMA",
-        role:  "Batchmate · Roll No. 05",
+        role:  "I'M JUST A CHILL GUY",
         photo: "abhishek-v1.png",
         cover: "photos/covers/s05.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
@@ -141,28 +141,28 @@ const TEACHERS = [
         name:  "AMIT KUMAR",
         role:  "Batchmate · Roll No. 06",
         photo: "amit.png",
-        cover: "photos/covers/s06.png",
+        cover: "amitt.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "Hobby",    val: "" },
+          { key: "Strength", val: "" },
+          { key: "Fun Fact", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
-        name:  "ABHIGYAN KARN",
-        role:  "Batchmate · Roll No. 07",
-        photo: "abhigyan-karn.png",
+        name:  "ABHIGYAN KUMAR",
+        role:  "camera",
+        photo: "abhigyan-kumar.png",
         cover: "photos/covers/s07.png",
         instagram: "https://www.instagram.com/ft.abhigyan_k/",
         linkedin: "https://www.linkedin.com/in/abhigyan-karn-9a317b2b4/",
         props: [
           { key: "Photographer",    val: "" },
-          { key: "", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "", val: "" },
+          { key: "Fun Fact", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -173,7 +173,7 @@ const TEACHERS = [
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/prefer_hidden/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "Edit me" },
+          { key: "RDS",    val: "Edit me" },
           { key: "Strength", val: "Edit me" },
           { key: "Fun Fact", val: "Edit me" },
           { key: "Dream",    val: "Edit me" }
@@ -197,7 +197,7 @@ const TEACHERS = [
         name:  "DEEPAK KUMAR",
         role:  "Integration specialist",
         photo: "dk.png",
-        cover: "photos/covers/s10.png",
+        cover: "deepak.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -223,7 +223,7 @@ const TEACHERS = [
       },
       {
         name:  "ANSHUL TYAGI",
-        role:  "khoon ROORKEE",
+        role:  "khoon se ROORKEE",
         photo: "anshul-tyagi.png",
         cover: "photos/covers/s12.png",
         instagram: "https://www.instagram.com/tyagi._.anshul/",
@@ -308,8 +308,8 @@ const TEACHERS = [
       {
         name:  "JUJAR YUSUFF VOHRA",
         role:  "duniya ka saara pressure mujhpe hi hai",
-        photo: "juju.png",
-        cover: "photos/covers/s19.png",
+        photo: "jujuu.png",
+        cover: "juju.png",
         instagram: "https://www.instagram.com/juzar12345/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -322,8 +322,8 @@ const TEACHERS = [
       {
         name:  "YUSUFF CHAUHAN",
         role:  "chatgpt's assistant",
-        photo: "yusuff2.png",
-        cover: "photos/covers/s18.png",
+        photo: "yusuff1.png",
+        cover: "yusuff2.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
