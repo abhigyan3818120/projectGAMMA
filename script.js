@@ -481,7 +481,7 @@ const TEACHERS = [
   const ghost = document.getElementById("ghostLink");
 
 let x = -100;
-let y = window.innerHeight * 0.4;
+let y = window.innerHeight * 0.8;
 
 function animateGhost() {
 

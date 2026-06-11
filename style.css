@@ -618,7 +618,7 @@
   }
   #ghostLink{
     position:fixed;
-    top:40%;
+    top:80%;
     left:-100px;
     z-index:999;
 }
@@ -639,7 +639,7 @@
 }
 #ghostLink{
     position:fixed;
-    top:40%;
+    top:80%;
     left:-100px;
     z-index:999;
 }
@@ -648,7 +648,7 @@
     width:70px;
     opacity:0.8;
     cursor:pointer;
-    animation: bob 2s ease-in-out infinite;
+    animation: bob 8s ease-in-out infinite;
 }
 
 @keyframes bob{
