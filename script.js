@@ -478,3 +478,25 @@ const TEACHERS = [
 
     const batchGrid = document.getElementById('batchGrid');
     STUDENTS.forEach(s => batchGrid.appendChild(buildCard(s, false)));
+  const ghost = document.getElementById("ghostLink");
+
+let x = -100;
+let y = window.innerHeight * 0.4;
+
+function animateGhost() {
+
+    x += 2.0; // speed
+
+    y += Math.sin(x / 50) * 0.8; // smooth up/down wave
+
+    if (x > window.innerWidth + 100) {
+        x = -100;
+    }
+
+    ghost.style.left = x + "px";
+    ghost.style.top = y + "px";
+
+    requestAnimationFrame(animateGhost);
+}
+
+animateGhost();

@@ -616,3 +616,54 @@
     font-family: 'Nunito', sans-serif;
     padding: 6px 0;
   }
+  #ghostLink{
+    position:fixed;
+    top:40%;
+    left:-100px;
+    z-index:999;
+}
+
+#ghostStudent{
+    width:150px;
+    opacity:0.6;
+    cursor:pointer;
+    transition:3s linear;
+}
+
+/* Mobile */
+@media(max-width:768px){
+    #ghostStudent{
+        width:100px;
+        opacity:0.5;
+    }
+}
+#ghostLink{
+    position:fixed;
+    top:40%;
+    left:-100px;
+    z-index:999;
+}
+
+#ghostStudent{
+    width:70px;
+    opacity:0.8;
+    cursor:pointer;
+    animation: bob 2s ease-in-out infinite;
+}
+
+@keyframes bob{
+    0%,100%{
+        transform:translateY(0);
+    }
+    50%{
+        transform:translateY(-10px);
+    }
+}
+
+/*@ Mobile */
+@media(max-width:768px){
+    #ghostStudent{
+        width:50px;
+        opacity:0.8;
+    }
+}
