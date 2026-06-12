@@ -667,3 +667,19 @@
         opacity:0.8;
     }
 }
+.spiderman-link{
+    position:fixed;
+    top:0;
+    right:8px;
+    z-index:9999;
+}
+
+.spiderman-link img{
+    width:60px;
+    opacity:1.0;
+    transition:transform 2s ease-in-out;
+}
+
+.spiderman-link img.drop{
+    transform:  translateY(500px);
+}

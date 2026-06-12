@@ -500,3 +500,25 @@ function animateGhost() {
 }
 
 animateGhost();
+document.addEventListener("DOMContentLoaded", function () {
+
+    const spidey = document.querySelector(".spiderman-link");
+
+    if (!spidey) {
+        console.log("Spider-Man element not found");
+        return;
+    }
+
+    spidey.addEventListener("click", function(e) {
+        e.preventDefault();
+
+        const url = this.href;
+
+        this.classList.add("clicked");
+
+        setTimeout(function() {
+            window.location.href = url;
+        }, 1000);
+    });
+
+});
