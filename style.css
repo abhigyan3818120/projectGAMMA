@@ -618,7 +618,7 @@
   }
   #ghostLink{
     position:fixed;
-    top:80%;
+    top:100%;
     left:-100px;
     z-index:999;
 }
@@ -633,20 +633,20 @@
 /* Mobile */
 @media(max-width:768px){
     #ghostStudent{
-        width:100px;
-        opacity:0.5;
+        width:120px;
+        opacity:0.6;
     }
 }
 #ghostLink{
     position:fixed;
-    top:80%;
+    top:100%;
     left:-100px;
     z-index:999;
 }
 
 #ghostStudent{
-    width:70px;
-    opacity:0.8;
+    width:120px;
+    opacity:0.6;
     cursor:pointer;
     animation: bob 8s ease-in-out infinite;
 }
@@ -656,28 +656,29 @@
         transform:translateY(0);
     }
     50%{
-        transform:translateY(-10px);
+        transform:translateY(-30px);
     }
 }
 
 /*@ Mobile */
 @media(max-width:768px){
     #ghostStudent{
-        width:50px;
+        width:120px;
         opacity:0.8;
     }
 }
 .spiderman-link{
     position:fixed;
     top:0;
-    right:8px;
+    right:4px;
     z-index:9999;
 }
 
 .spiderman-link img{
-    width:60px;
-    opacity:1.0;
+    width:110px;
+    opacity:0.7;
     transition:transform 2s ease-in-out;
+    margin-top: 0;
 }
 
 .spiderman-link img.drop{
