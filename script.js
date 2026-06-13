@@ -210,8 +210,8 @@ const TEACHERS = [
       {
         name:  "NITIN",
         role:  "Batchmate · Roll No. 11",
-        photo: "nitin.png",
-        cover: "photos/covers/s11.png",
+        photo: "nitinnn.png",
+        cover: "nitin.png",
         instagram: "https://www.instagram.com/initinrudhenyaa/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -225,7 +225,7 @@ const TEACHERS = [
         name:  "ANSHUL TYAGI",
         role:  "khoon se ROORKEE",
         photo: "anshul-tyagi.png",
-        cover: "photos/covers/s12.png",
+        cover: "anshuljee.png",
         instagram: "https://www.instagram.com/tyagi._.anshul/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
