@@ -169,7 +169,7 @@ const TEACHERS = [
         name:  "TEJASVI CHAURASIA",
         role:  "RATE DECIDING STEP",
         photo: "rds.png",
-        cover: "photos/covers/s08.png",
+        cover: "rds2.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/prefer_hidden/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -253,7 +253,7 @@ const TEACHERS = [
         name:  "PANKAJ PALIWAL",
         role:  "Batchmate · Roll No. 14",
         photo: "pp.png",
-        cover: "photos/covers/s14.png",
+        cover: "pankaj paliwal.png",
         instagram: "https://www.instagram.com/pankaj._.paliwal/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -294,8 +294,8 @@ const TEACHERS = [
       {
         name:  "AKSHIT CHAUDHARY",
         role:  "",
-        photo: "photos/s20.png",
-        cover: "photos/covers/s20.png",
+        photo: "akhitrename.png",
+        cover: "akshittt.png",
         instagram: "https://www.instagram.com/akshit_12_2024/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
