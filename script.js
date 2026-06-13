@@ -364,14 +364,14 @@ const TEACHERS = [
       {
         name:  "JAY RAJ",
         role:  "Mr. INDIA from Diwali",
-        photo: "photos/s19.png",
+        photo: "jay.png",
         cover: "photos/covers/s19.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "gaayab aatma",    val: "" },
-          { key: "", val: "" },
-          { key: "", val: "" },
+          { key: "...",    val: "" },
+          { key: ".....", val: "" },
+          { key: ".......", val: "" },
           { key: "{I, Abhigyan, have no idea about his properties, sorry}",    val: "" }
         ]
       },
@@ -382,7 +382,7 @@ const TEACHERS = [
       const card = document.createElement('div');
       card.className = 'card' + (isTeacher ? ' card-teacher' : '');
 
-      /* Art zone */
+
       const artZone = document.createElement('div');
       artZone.className = 'art-zone';
       artZone.dataset.initials = person.name
