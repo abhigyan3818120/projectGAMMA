@@ -142,7 +142,7 @@ const TEACHERS = [
         role:  "Batchmate · Roll No. 06",
         photo: "amit.png",
         cover: "amitt.png",
-        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
+        instagram: "https://www.instagram.com/amit_kumar.2850/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Hobby",    val: "" },

@@ -675,14 +675,14 @@
 }
 
 .spiderman-link img{
-    width:110px;
+    width:70px;
     opacity:0.7;
     transition:transform 2s ease-in-out;
     margin-top: 0;
 }
 
 .spiderman-link img.drop{
-    transform:  translateY(500px);
+    transform: translateY(500px);
 }
 /* HEADER MUST BE RELATIVE */
 header{
