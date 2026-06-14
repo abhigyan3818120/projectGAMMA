@@ -684,13 +684,11 @@
 .spiderman-link img.drop{
     transform: translateY(500px);
 }
-/* HEADER MUST BE RELATIVE */
 header{
     position: relative;
     overflow: hidden;
 }
 
-/* Floating Ghost Text */
 .header-ghost-text{
     position: absolute;
     top: 15%;
@@ -708,13 +706,14 @@ header{
     font-weight: 900;
     letter-spacing: 12px;
     text-transform: uppercase;
+    opacity: 100%;
 
     color: rgba(0, 255, 120, 0.06);
 
     text-shadow:
         0 0 10px rgba(17, 72, 43, 0.12),
-        0 0 25px rgba(0,255,120,0.08),
-        0 0 50px rgba(23, 208, 109, 0.06);
+        0 0 25px rgba(0,255,120,0.12),
+        0 0 50px rgba(23, 208, 109, 0.16);
 
     animation: driftText 80s linear infinite;
     z-index: 0;

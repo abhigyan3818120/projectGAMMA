@@ -71,7 +71,7 @@ const TEACHERS = [
         name:  "MOKSH JEEVAVAT",
         role:  "TABLE TOPPER",
         photo: "moksh1.png",
-        cover: "photos/covers/s01.png",
+        cover: "jeevavat.png",
         instagram: "https://www.instagram.com/mokshjeevavat/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
