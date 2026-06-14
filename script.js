@@ -70,7 +70,7 @@ const TEACHERS = [
       {
         name:  "MOKSH JEEVAVAT",
         role:  "TABLE TOPPER",
-        photo: "moksh.png",
+        photo: "moksh1.png",
         cover: "photos/covers/s01.png",
         instagram: "https://www.instagram.com/mokshjeevavat/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
@@ -183,7 +183,7 @@ const TEACHERS = [
         name:  "KUNDAN KUMAR",
         role:  "differentiation specialist",
         photo: "kundan2.png",
-        cover: "photos/covers/s09.png",
+        cover: "kkpg.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/kundan6475kumar/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -336,7 +336,7 @@ const TEACHERS = [
       {
         name:  "PRINCE {non-accha wala}",
         role:  "SCAM 226",
-        photo: "photos/s17.png",
+        photo: "prince.png",
         cover: "photos/covers/s17.png",
         instagram: "https://www.instagram.com/prince_thakur0710/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
@@ -350,7 +350,7 @@ const TEACHERS = [
       {
         name:  "RUDRA PRATAP SINGH KINCHI",
         role:  "Batchmate · Roll No. 20",
-        photo: "photos/s20.png",
+        photo: "kinchi.png",
         cover: "photos/covers/s20.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
