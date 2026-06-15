@@ -3,7 +3,7 @@ const TEACHERS = [
         name:  "YUG SAREEN SIR",
         role:  "JAI LOGIC CEO",
         photo: "yugsir2.png",
-        cover: "photos/covers/t1.png",
+        cover: "yugsir2.png",
           instagram: "https://www.instagram.com/yug.sareen/",
   linkedin: "https://www.linkedin.com/in/yugsareen/",
         props: [
@@ -16,7 +16,7 @@ const TEACHERS = [
         name:  "KUNDAN KUMAR SIR",
         role:  "MATHEMATICS",
         photo: "1000080903.png",
-        cover: "photos/covers/t2.png",
+        cover: "1000080903.png",
         instagram: "https://www.instagram.com/kundan_mathematics_2658/",
          linkedin: "https://www.linkedin.com/in/kundan-kumar-a1204a82/",
         props: [
@@ -29,11 +29,11 @@ const TEACHERS = [
         name:  "RAHUL PAREEK SIR",
         role:  "Organic Chemistry",
         photo: "rp.png",
-        cover: "photos/covers/t3.png",
+        cover: "rp.png",
           instagram: "https://www.instagram.com/rahulpareek_6f7/",
   linkedin: "https://www.linkedin.com/in/rahul-pareek-621219b9/",
         props: [
-          { key: "",        val: "" },
+          { key: "former Playback-Singer",        val: "" },
           { key: "",     val: "" },
           { key: "bhaang khake mere saamne mat ana",  val: "" }
         ]
@@ -42,26 +42,26 @@ const TEACHERS = [
         name:  "NITESH TIWARI SIR",
         role:  "Inorganic Chemistry",
         photo: "1000080905.png",
-        cover: "photos/covers/t4.png",
+        cover: "1000080905.png",
           instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Subject",        val: "Edit me" },
-          { key: "Experience",     val: "Edit me" },
-          { key: "Qualification",  val: "Edit me" }
+          { key: "",        val: "Edit me" },
+          { key: "",     val: "Edit me" },
+          { key: "",  val: "Edit me" }
         ]
       },
       {
         name:  "RAJEEV RANJAN SIR",
         role:  "Physical Chemistry",
         photo: "rrsir.png",
-        cover: "photos/covers/t5.png",
+        cover: "rrsir.png",
           instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://www.linkedin.com/in/rajeev-ranjan-0ab49719/",
         props: [
-          { key: "Subject",        val: "Edit me" },
-          { key: "Experience",     val: "Edit me" },
-          { key: "Qualification",  val: "Edit me" }
+          { key: "",        val: "" },
+          { key: "",     val: "" },
+          { key: "",  val: "" }
         ]
       }
     ];
@@ -76,9 +76,9 @@ const TEACHERS = [
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "",    val: "" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
@@ -117,10 +117,10 @@ const TEACHERS = [
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/ankita.saha.23/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "",    val: "" },
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
@@ -153,9 +153,9 @@ const TEACHERS = [
       },
       {
         name:  "ABHIGYAN KUMAR",
-        role:  "camera",
-        photo: "abhigyan-kumar.png",
-        cover: "photos/covers/s07.png",
+        role:  "Techie",
+        photo: "gyan2.0.png",
+        cover: "gyan.png",
         instagram: "https://www.instagram.com/ft.abhigyan_k/",
         linkedin: "https://www.linkedin.com/in/abhigyan-karn-9a317b2b4/",
         props: [
@@ -232,21 +232,21 @@ const TEACHERS = [
           { key: "IIT R Dream...",    val: "" },
           { key: "'chuth kaise jaa rha hai?'", val: "" },
           { key: "", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "",    val: "" }
         ]
       },
       {
         name:  "PRINCE {accha wala}",
         role:  "Not exactly a dropper",
-        photo: "photos/s13.png",
-        cover: "photos/covers/s13.png",
+        photo: "noney.png",
+        cover: "noney.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "mujhe drop ke saath boards dene pade.. warna batata ",    val: "" },
           { key: "", val: "" },
           { key: "", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "",    val: "" }
         ]
       },
       {
@@ -257,38 +257,38 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/pankaj._.paliwal/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "" },
-          { key: "Strength", val: "" },
-          { key: "Fun Fact", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "",    val: "" },
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
         name:  "KAVYANSH TIWARI",
         role:  "chemistry head",
-        photo: "photos/s15.png",
-        cover: "photos/covers/s15.png",
+        photo: "noney.png",
+        cover: "noney.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "Chemistry... huh",    val: "" },
-          { key: "Strength", val: "" },
-          { key: "Fun Fact", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
         name:  "DHYEY VADODARIYA",
         role:  "KING",
-        photo: "photos/s16.png",
-        cover: "photos/covers/s16.png",
+        photo: "king.png",
+        cover: "king.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "KING",    val: "" },
           { key: "underrated", val: "" },
           { key: "", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "",    val: "" }
         ]
       },
       {
@@ -300,9 +300,9 @@ const TEACHERS = [
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "",    val: "" },
-          { key: "Strength", val: "" },
-          { key: "Fun Fact", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
@@ -316,7 +316,7 @@ const TEACHERS = [
           { key: "just underconfident",    val: "" },
           { key: "", val: "" },
           { key: "", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "",    val: "" }
         ]
       },
       {
@@ -327,45 +327,45 @@ const TEACHERS = [
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "" },
-          { key: "Strength", val: "" },
-          { key: "Fun Fact", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "gamer paglu",    val: "" },
+          { key: "test is for chat gpt, not me", val: "" },
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
         name:  "PRINCE {non-accha wala}",
         role:  "SCAM 226",
         photo: "prince.png",
-        cover: "photos/covers/s17.png",
+        cover: "prince.png",
         instagram: "https://www.instagram.com/prince_thakur0710/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "226 is still a mystery",    val: "" },
           { key: "JEE ADVANCED? nah.. IAT", val: "" },
           { key: "once a BATCH TOPPER", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "",    val: "" }
         ]
       },
       {
         name:  "RUDRA PRATAP SINGH KINCHI",
         role:  "Batchmate · Roll No. 20",
         photo: "kinchi.png",
-        cover: "photos/covers/s20.png",
+        cover: "kinchi.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "school topper",    val: "" },
           { key: "District topper", val: "" },
-          { key: "defeated by none", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
         name:  "JAY RAJ",
         role:  "Mr. INDIA from Diwali",
-        photo: "jay.png",
-        cover: "photos/covers/s19.png",
+        photo: "noney.png",
+        cover: "noney.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
