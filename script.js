@@ -1,7 +1,7 @@
 const TEACHERS = [
       {
         name:  "YUG SAREEN SIR",
-        role:  "JAI LOGIC CEO",
+        role:  "PHYSICS {JAI LOGIC}",
         photo: "yugsir2.png",
         cover: "yugsir2.png",
           instagram: "https://www.instagram.com/yug.sareen/",
@@ -15,7 +15,7 @@ const TEACHERS = [
       {
         name:  "KUNDAN KUMAR SIR",
         role:  "MATHEMATICS",
-        photo: "1000080903.png",
+        photo: "kundansir.png",
         cover: "1000080903.png",
         instagram: "https://www.instagram.com/kundan_mathematics_2658/",
          linkedin: "https://www.linkedin.com/in/kundan-kumar-a1204a82/",
@@ -46,9 +46,9 @@ const TEACHERS = [
           instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "",        val: "Edit me" },
-          { key: "",     val: "Edit me" },
-          { key: "",  val: "Edit me" }
+          { key: "",        val: "" },
+          { key: "",     val: "" },
+          { key: "",  val: "" }
         ]
       },
       {
@@ -75,8 +75,8 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/mokshjeevavat/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "",    val: "" },
-          { key: "", val: "" },
+          { key: "a.k.a-KHOLU🧠",    val: "" },
+          { key: "my hostel is a hotel", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
@@ -104,21 +104,21 @@ const TEACHERS = [
         linkedin: "https://www.linkedin.com/in/akshat-barsaiyan-671592410?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         props: [
           { key: "Eiffel Tower",    val: "" },
-          { key: "irodov niptai hai maine😎", val: "" },
+          { key: "irodov niptai hai humne😎", val: "" },
           { key: "universal selfie stick", val: "" },
           { key: "3 years PW premium membership",    val: "" }
         ]
       },
       {
         name:  "ANKITA SAHA",
-        role:  "",
+        role:  "'Chullu bhar paani mein dub mar'",
         photo: "as.png",
         cover: "saha.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/ankita.saha.23/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "",    val: "" },
-          { key: "", val: "" },
+          { key: "JHANSI ki rani",    val: "" },
+          { key: "stylish", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
@@ -139,16 +139,16 @@ const TEACHERS = [
       },
       {
         name:  "AMIT KUMAR",
-        role:  "Batchmate · Roll No. 06",
+        role:  "PADHLO BHAI",
         photo: "amit.png",
         cover: "amitt.png",
         instagram: "https://www.instagram.com/amit_kumar.2850/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "underrated qutub minar",    val: "" },
+          { key: "underrated Qutub Minar",    val: "" },
           { key: "Haan bhai chotu...", val: "" },
           { key: "kyu nahi ho rahi padhai", val: "" },
-          { key: "im closer to the moon than rest of you 🐱‍🏍",    val: "" }
+          { key: "I'm closer to the moon than rest of you 🐱‍🏍",    val: "" }
         ]
       },
       {
@@ -174,7 +174,7 @@ const TEACHERS = [
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "RDS",    val: "" },
-          { key: "my Alarm so LOUD even RP sir can't resist", val: "" },
+          { key: "my Alarm so  LOUD even RP sir can't resist", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
@@ -187,7 +187,7 @@ const TEACHERS = [
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/kundan6475kumar/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "inta maar maarunga,",    val: "" },
+          { key: "itna maar maarunga,",    val: "" },
           { key: "MR. NOTES", val: "" },
           { key: "Aaiye na humra bihar main", val: "" },
           { key: "CHEMISTRY - 99.83%ile",    val: "" }
@@ -203,13 +203,13 @@ const TEACHERS = [
         props: [
           { key: "aka DEEPAK JEEE",    val: "" },
           { key: "humaare zamaane main..", val: "" },
-          { key: "integration.. humse puche? DEKHTE HI", val: "" },
+          { key: "DEKHTE HI", val: "" },
           { key: "mat pada chakkar main koi nahi hai TAKKAR main",    val: "" }
         ]
       },
       {
         name:  "NITIN",
-        role:  "Batchmate · Roll No. 11",
+        role:  "CHESS specialist",
         photo: "nitinnn.png",
         cover: "nitin.png",
         instagram: "https://www.instagram.com/initinrudhenyaa/",
@@ -251,7 +251,7 @@ const TEACHERS = [
       },
       {
         name:  "PANKAJ PALIWAL",
-        role:  "Batchmate · Roll No. 14",
+        role:  "",
         photo: "pp.png",
         cover: "pankaj paliwal.png",
         instagram: "https://www.instagram.com/pankaj._.paliwal/",
@@ -265,9 +265,9 @@ const TEACHERS = [
       },
       {
         name:  "KAVYANSH TIWARI",
-        role:  "chemistry head",
-        photo: "noney.png",
-        cover: "noney.png",
+        role:  "",
+        photo: "pandit.png",
+        cover: "pandit.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -323,7 +323,7 @@ const TEACHERS = [
         name:  "YUSUFF CHAUHAN",
         role:  "chatgpt's assistant",
         photo: "yusuff1.png",
-        cover: "yusuff2.png",
+        cover: "yus.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -349,30 +349,30 @@ const TEACHERS = [
       },
       {
         name:  "RUDRA PRATAP SINGH KINCHI",
-        role:  "Batchmate · Roll No. 20",
+        role:  "success collector",
         photo: "kinchi.png",
         cover: "kinchi.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "school topper",    val: "" },
+          { key: "School topper",    val: "" },
           { key: "District topper", val: "" },
-          { key: "", val: "" },
-          { key: "",    val: "" }
+          { key: "National topper", val: "" },
+          { key: "International topper",    val: "" }
         ]
       },
       {
-        name:  "JAY RAJ",
-        role:  "Mr. INDIA from Diwali",
-        photo: "noney.png",
-        cover: "noney.png",
+        name:  "SHUBH",
+        role:  "MR. BLUNDER",
+        photo: "burger.png",
+        cover: "burger.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "...",    val: "" },
-          { key: ".....", val: "" },
-          { key: ".......", val: "" },
-          { key: "{I, Abhigyan, have no idea about his properties, sorry}",    val: "" }
+          { key: "just a burden",    val: "" },
+          { key: "class gayi tel lene, BURGER mangao", val: "" },
+          { key: "did everything I shouldn't", val: "" },
+          { key: "anti padhai paglu",    val: "" }
         ]
       },
     
