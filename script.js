@@ -113,7 +113,7 @@ const TEACHERS = [
         name:  "ANKITA SAHA",
         role:  "",
         photo: "as.png",
-        cover: "photos/covers/s04.png",
+        cover: "saha.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/ankita.saha.23/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -127,7 +127,7 @@ const TEACHERS = [
         name:  "ABHISHEK VERMA",
         role:  "I'M JUST A CHILL GUY",
         photo: "abhishek-v1.png",
-        cover: "photos/covers/s05.png",
+        cover: "verma.png",
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
@@ -189,8 +189,8 @@ const TEACHERS = [
         props: [
           { key: "inta maar maarunga,",    val: "" },
           { key: "MR. NOTES", val: "" },
-          { key: "Aaiye na humra bihar main", val: "Edit me" },
-          { key: "CHEMISTRY ungliyon pe",    val: "Edit me" }
+          { key: "Aaiye na humra bihar main", val: "" },
+          { key: "CHEMISTRY - 99.83%ile",    val: "" }
         ]
       },
       {
@@ -229,10 +229,10 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/tyagi._.anshul/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "IIT R Dream...",    val: "Edit me" },
-          { key: "'chuth kaise jaa rha hai?'", val: "Edit me" },
-          { key: "", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "IIT R Dream...",    val: "" },
+          { key: "'chuth kaise jaa rha hai?'", val: "" },
+          { key: "", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -243,10 +243,10 @@ const TEACHERS = [
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "mujhe drop ke saath boards dene pade.. warna batata ",    val: "Edit me" },
-          { key: "", val: "Edit me" },
-          { key: "", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "mujhe drop ke saath boards dene pade.. warna batata ",    val: "" },
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -257,10 +257,10 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/pankaj._.paliwal/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "Hobby",    val: "" },
+          { key: "Strength", val: "" },
+          { key: "Fun Fact", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -271,10 +271,10 @@ const TEACHERS = [
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Chemistry... huh",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "Chemistry... huh",    val: "" },
+          { key: "Strength", val: "" },
+          { key: "Fun Fact", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -286,9 +286,9 @@ const TEACHERS = [
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "KING",    val: "" },
-          { key: "underrated", val: "Edit me" },
-          { key: "", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "underrated", val: "" },
+          { key: "", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -299,10 +299,10 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/akshit_12_2024/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "",    val: "" },
+          { key: "Strength", val: "" },
+          { key: "Fun Fact", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -313,10 +313,10 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/juzar12345/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "just underconfident",    val: "Edit me" },
-          { key: "", val: "Edit me" },
-          { key: "", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "just underconfident",    val: "" },
+          { key: "", val: "" },
+          { key: "", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -327,10 +327,10 @@ const TEACHERS = [
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "Edit me" },
-          { key: "Strength", val: "Edit me" },
-          { key: "Fun Fact", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "Hobby",    val: "" },
+          { key: "Strength", val: "" },
+          { key: "Fun Fact", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -341,10 +341,10 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/prince_thakur0710/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "226 is still a mystery",    val: "Edit me" },
-          { key: "JEE ADVANCED? nah.. IAT", val: "Edit me" },
-          { key: "once a BATCH TOPPER", val: "Edit me" },
-          { key: "Dream",    val: "Edit me" }
+          { key: "226 is still a mystery",    val: "" },
+          { key: "JEE ADVANCED? nah.. IAT", val: "" },
+          { key: "once a BATCH TOPPER", val: "" },
+          { key: "Dream",    val: "" }
         ]
       },
       {
@@ -355,9 +355,9 @@ const TEACHERS = [
         instagram: "https://abhigyan3818120.github.io/IGnotFound/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "school topper",    val: "Edit me" },
-          { key: "District topper", val: "Edit me" },
-          { key: "defeated by none", val: "Edit me" },
+          { key: "school topper",    val: "" },
+          { key: "District topper", val: "" },
+          { key: "defeated by none", val: "" },
           { key: "Dream",    val: "" }
         ]
       },
