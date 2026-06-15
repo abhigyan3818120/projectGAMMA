@@ -145,10 +145,10 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/amit_kumar.2850/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "Hobby",    val: "" },
-          { key: "Strength", val: "" },
-          { key: "Fun Fact", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "underrated qutub minar",    val: "" },
+          { key: "Haan bhai chotu...", val: "" },
+          { key: "kyu nahi ho rahi padhai", val: "" },
+          { key: "im closer to the moon than rest of you 🐱‍🏍",    val: "" }
         ]
       },
       {
@@ -161,8 +161,8 @@ const TEACHERS = [
         props: [
           { key: "Photographer",    val: "" },
           { key: "", val: "" },
-          { key: "Fun Fact", val: "" },
-          { key: "Dream",    val: "" }
+          { key: "", val: "" },
+          { key: "",    val: "" }
         ]
       },
       {
@@ -174,7 +174,7 @@ const TEACHERS = [
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "RDS",    val: "" },
-          { key: "", val: "" },
+          { key: "my Alarm so LOUD even RP sir can't resist", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
@@ -198,7 +198,7 @@ const TEACHERS = [
         role:  "Integration specialist",
         photo: "dk.png",
         cover: "deepak.png",
-        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
+        instagram: "https://www.instagram.com/dipak5784yadav/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "aka DEEPAK JEEE",    val: "" },
@@ -224,8 +224,8 @@ const TEACHERS = [
       {
         name:  "ANSHUL TYAGI",
         role:  "khoon se ROORKEE",
-        photo: "anshul-tyagi.png",
-        cover: "anshuljee.png",
+        photo: "anshuljee.png",
+        cover: "anshul-tyagi.png",
         instagram: "https://www.instagram.com/tyagi._.anshul/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
