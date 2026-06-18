@@ -160,7 +160,7 @@ const TEACHERS = [
         linkedin: "https://www.linkedin.com/in/abhigyan-karn-9a317b2b4/",
         props: [
           { key: "CameraMan",    val: "" },
-          { key: "content creator", val: "" },
+          { key: "Content Creator", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
@@ -175,14 +175,14 @@ const TEACHERS = [
         props: [
           { key: "RDS",    val: "" },
           { key: "my Alarm so  LOUD even RP sir can't resist", val: "" },
-          { key: "", val: "" },
-          { key: "",    val: "" }
+          { key: "lassi specialist", val: "" },
+          { key: "CHOTA packet, bohut bada dhamaka",    val: "" }
         ]
       },
       {
         name:  "KUNDAN KUMAR",
         role:  "differentiation specialist",
-        photo: "kundan2.png",
+        photo: "kundan3.png",
         cover: "kkpg.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/kundan6475kumar/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
