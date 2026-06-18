@@ -169,7 +169,7 @@ const TEACHERS = [
         name:  "TEJASVI CHAURASIA",
         role:  "RATE DECIDING STEP",
         photo: "rds.png",
-        cover: "rds2.png",
+        cover: "rds.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/prefer_hidden/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
