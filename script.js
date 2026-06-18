@@ -46,7 +46,7 @@ const TEACHERS = [
           instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "",        val: "" },
+          { key: "BE ON TIME!",        val: "" },
           { key: "",     val: "" },
           { key: "",  val: "" }
         ]
@@ -59,9 +59,9 @@ const TEACHERS = [
           instagram: "https://abhigyan3818120.github.io/IGnotFound/",
   linkedin: "https://www.linkedin.com/in/rajeev-ranjan-0ab49719/",
         props: [
-          { key: "",        val: "" },
-          { key: "",     val: "" },
-          { key: "",  val: "" }
+          { key: "re bhuujhe??",        val: "" },
+          { key: "Are samjhe ki nai samjhe?!",     val: "" },
+          { key: "tum samjhe nahi... tumse na ho paayega",  val: "" }
         ]
       }
     ];
@@ -159,8 +159,8 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/ft.abhigyan_k/",
         linkedin: "https://www.linkedin.com/in/abhigyan-karn-9a317b2b4/",
         props: [
-          { key: "Photographer",    val: "" },
-          { key: "", val: "" },
+          { key: "CameraMan",    val: "" },
+          { key: "content creator", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
@@ -209,15 +209,15 @@ const TEACHERS = [
       },
       {
         name:  "NITIN",
-        role:  "CHESS specialist",
+        role:  "divisor",
         photo: "nitinnn.png",
         cover: "nitin.png",
         instagram: "https://www.instagram.com/initinrudhenyaa/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "instagram followers - 20K",    val: "" },
-          { key: "", val: "" },
-          { key: "", val: "" },
+          { key: "chess body count{1.5}", val: "" },
+          { key: "97 [12th ke saath bhi 12th ke baad bhi]", val: "" },
           { key: "",    val: "" }
         ]
       },
@@ -257,7 +257,7 @@ const TEACHERS = [
         instagram: "https://www.instagram.com/pankaj._.paliwal/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
-          { key: "",    val: "" },
+          { key: "free refund",    val: "" },
           { key: "", val: "" },
           { key: "", val: "" },
           { key: "",    val: "" }
