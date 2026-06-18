@@ -670,7 +670,7 @@
 .spiderman-link{
     position:fixed;
     top:0;
-    right:4px;
+    left:4px;
     z-index:9999;
 }
 
