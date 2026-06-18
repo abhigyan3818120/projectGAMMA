@@ -113,7 +113,7 @@ const TEACHERS = [
         name:  "ANKITA SAHA",
         role:  "'Chullu bhar paani mein dub mar'",
         photo: "as.png",
-        cover: "saha.png",
+        cover: "ankitasaha.png",
         instagram: "https://instagram.com/usernamehttps://www.instagram.com/ankita.saha.23/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
