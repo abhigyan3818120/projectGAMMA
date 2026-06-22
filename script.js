@@ -161,7 +161,7 @@ const TEACHERS = [
         props: [
           { key: "CameraMan",    val: "" },
           { key: "Content Creator", val: "" },
-          { key: "", val: "" },
+          { key: "AI kiddo", val: "" },
           { key: "",    val: "" }
         ]
       },
