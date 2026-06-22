@@ -217,7 +217,7 @@ const TEACHERS = [
         props: [
           { key: "instagram followers - 20K",    val: "" },
           { key: "chess body count{1.5}", val: "" },
-          { key: "97 [12th ke saath bhi 12th ke baad bhi]", val: "" },
+          { key: "I'M A CHILL GUY", val: "" },
           { key: "",    val: "" }
         ]
       },
