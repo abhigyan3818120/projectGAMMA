@@ -162,7 +162,7 @@ const TEACHERS = [
           { key: "CameraMan",    val: "" },
           { key: "Content Creator", val: "" },
           { key: "AI kiddo", val: "" },
-          { key: "",    val: "" }
+          { key: "overnight study.. record 52 hr sleepless",    val: "" }
         ]
       },
       {
