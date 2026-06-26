@@ -128,7 +128,7 @@ const TEACHERS = [
         role:  "I'M JUST A CHILL GUY",
         photo: "abhishek-v1.png",
         cover: "verma.png",
-        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
+        instagram: "https://www.instagram.com/abhishek_ui42/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "GOLI maardunga!",    val: "" },
@@ -162,7 +162,7 @@ const TEACHERS = [
           { key: "CameraMan",    val: "" },
           { key: "Content Creator", val: "" },
           { key: "AI kiddo", val: "" },
-          { key: "overnight study.. record 52 hr sleepless",    val: "" }
+          { key: "overnight study.. record 52hr sleepless",    val: "" }
         ]
       },
       {
