@@ -77,7 +77,7 @@ const TEACHERS = [
         props: [
           { key: "a.k.a-KHOLU🧠",    val: "" },
           { key: "my hostel is a hotel", val: "" },
-          { key: "", val: "" },
+          { key: "the MEGAMIND", val: "" },
           { key: "",    val: "" }
         ]
       },
