@@ -128,7 +128,7 @@ const TEACHERS = [
         role:  "I'M JUST A CHILL GUY",
         photo: "abhishek-v1.png",
         cover: "verma.png",
-        instagram: "https://www.instagram.com/abhishek_ui42/",
+        instagram: "https://www.instagram.com/abhishek_iiest",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "GOLI maardunga!",    val: "" },
