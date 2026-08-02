@@ -69,10 +69,10 @@ const TEACHERS = [
     const STUDENTS = [
       {
         name:  "MOKSH JEEVAVAT",
-        role:  "TABLE TOPPER",
+        role:  "IIT BOMBAY",
         photo: "moksh1.png",
         cover: "jeevavat.png",
-        instagram: "https://www.instagram.com/mokshjeevavat/",
+        instagram: "https://www.instagram.com/mokshjeevavat_iitb/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "a.k.a-KHOLU🧠",    val: "" },
@@ -86,7 +86,7 @@ const TEACHERS = [
         role:  "TIFFIN Specialist",
         photo: "mahesh2.png",
         cover: "mahesh21.png",
-        instagram: "https://abhigyan3818120.github.io/IGnotFound/",
+        instagram: "https://www.instagram.com/dhakadmahesh2007/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "kya kehta tha Moksh?",    val: "" },
@@ -105,7 +105,7 @@ const TEACHERS = [
         props: [
           { key: "Eiffel Tower",    val: "" },
           { key: "irodov niptai hai humne😎", val: "" },
-          { key: "universal selfie stick", val: "" },
+          { key: "IIT BHU", val: "" },
           { key: "3 years PW premium membership",    val: "" }
         ]
       },
@@ -119,8 +119,8 @@ const TEACHERS = [
         props: [
           { key: "JHANSI ki rani",    val: "" },
           { key: "stylish", val: "" },
-          { key: "", val: "" },
-          { key: "",    val: "" }
+          { key: "Content Creator", val: "" },
+          { key: "IIT MANDI",    val: "" }
         ]
       }, 
       {
@@ -139,7 +139,7 @@ const TEACHERS = [
       },
       {
         name:  "AMIT KUMAR",
-        role:  "PADHLO BHAI",
+        role:  "IIT ROORKEE",
         photo: "amit.png",
         cover: "amitt.png",
         instagram: "https://www.instagram.com/amit_kumar.2850/",
@@ -226,7 +226,7 @@ const TEACHERS = [
         role:  "khoon se ROORKEE",
         photo: "anshuljee.png",
         cover: "anshul-tyagi.png",
-        instagram: "https://www.instagram.com/tyagi._.anshul/",
+        instagram: "https://www.instagram.com/anshull_tyagiii/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "IIT R Dream...",    val: "" },
