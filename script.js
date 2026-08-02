@@ -122,13 +122,13 @@ const TEACHERS = [
           { key: "", val: "" },
           { key: "",    val: "" }
         ]
-      },
+      }, 
       {
         name:  "ABHISHEK VERMA",
         role:  "I'M JUST A CHILL GUY",
         photo: "abhishek-v1.png",
         cover: "verma.png",
-        instagram: "https://www.instagram.com/abhishek_iiest",
+        instagram: "https://www.instagram.com/abhi.daemon/",
         linkedin: "https://abhigyan3818120.github.io/linkedInNotFound/",
         props: [
           { key: "GOLI maardunga!",    val: "" },
